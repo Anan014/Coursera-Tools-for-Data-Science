@@ -1,4 +1,4 @@
-# Open Source Tools for Data Science
+# Tools for Data Science
 
 This repository contains materials and exercises from the [Open Source Tools for Data Science](https://www.coursera.org/learn/open-source-tools-for-data-science?specialization=ibm-data-science) course offered by IBM on Coursera. The course is part of the IBM Data Science Professional Certificate and provides an overview of essential tools used in data science.
 
