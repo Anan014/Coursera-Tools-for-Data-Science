@@ -49,3 +49,5 @@
 1. **Optional Reading: Download & Install R and RStudio** – 15 minutes
 2. **Hands-on Lab: Getting Started with GitHub** – 20 minutes
 3. **Hands-On Lab: Branching and Merging (Web UI)** – 20 minutes
+
+<!-- github completed -->
