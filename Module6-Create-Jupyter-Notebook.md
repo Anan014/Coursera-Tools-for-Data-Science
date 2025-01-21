@@ -21,4 +21,4 @@ In this module, you will complete a final project to showcase the skills learned
 #### **1 Plugin**
 - **Final Assignment Instructions: Create and Share Your Jupyter Notebook**: 30 minutes
 
-<!-- notebook -->
+<!-- note book -->
