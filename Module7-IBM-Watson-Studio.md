@@ -43,3 +43,5 @@ Watson Studio is a collaborative platform for data science, catering to Data Ana
 1. **Hands-on Lab: Creating a Watson Studio Project with Jupyter Notebooks** – 15 minutes  
 2. **Hands-on Lab: Getting Started with Jupyter Notebooks** – 15 minutes  
 3. **Assignment Using Watson Studio** – 20 minutes  
+
+<!-- module7 -->
